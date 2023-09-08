@@ -1,0 +1,59 @@
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fire{
+    margin-left: 20px;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+header{
+    border: 1px solid sandybrown;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+
+h1{
+    color:  rgb(202, 92, 59);
+    text-align: center;
+}
+
+footer p{
+    background: rgb(156, 60, 245);
+    padding: 5px;
+}
+
+nav{
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    border: 1px solid rosybrown;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.fire {
+    border: 1px solid rgb(55, 162, 180);
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.contacts{
+    text-decoration: none;
+    border: solid violed;
+    padding: 5px;
+    
+}
